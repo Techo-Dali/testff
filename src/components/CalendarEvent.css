@@ -1,0 +1,19 @@
+/* src/components/CalendarEvent.css */
+.calendar-container {
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-details {
+  padding: 20px;
+}
+
+.event-details h2 {
+  margin-bottom: 10px;
+}
+
+.event-details p {
+  margin-bottom: 10px;
+}

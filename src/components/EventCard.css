@@ -1,0 +1,21 @@
+/* src/components/EventCard.css */
+.event-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.event-card-image {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.event-card-content {
+  padding: 16px;
+}
+
+.event-card-map {
+  margin-top: 16px;
+}

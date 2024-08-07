@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "MyApp",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "GoogleMaps": {
+      "apiKey": "AIzaSyAk_UsN3OK7rCVYDVgr57XXveoBJuYzB5Q"
+    }
+  }
+}

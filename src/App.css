@@ -1,0 +1,21 @@
+/* src/App.css */
+.logo {
+  height: 100px; /* Adjust the height as needed */
+  margin-bottom: 20px;
+  margin-top: 20px; /* Space between logo and title */
+}
+
+.ion-toolbar {
+  display: flex;
+  align-items: center;
+  background-color: beige; /* Center items vertically */
+}
+
+.ion-title {
+  flex: 1; /* Make the title take up remaining space */
+  text-align: center;
+}
+.class {
+  background-color: rgb(255, 255, 255);
+  border-right: 1px solid black; /* Center items vertically */
+}

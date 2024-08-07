@@ -1,0 +1,36 @@
+/* src/components/Partners.css */
+.partners-container {
+  padding: 16px;
+  background-color: #f9f9f9; /* Light background for contrast */
+}
+
+.partners-heading {
+  text-align: center;
+  margin-bottom: 16px;
+  font-size: 24px;
+  color: #333; /* Dark text color for readability */
+}
+
+.partners-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  justify-items: center;
+}
+
+.partner-card {
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff; /* White background for cards */
+}
+
+.partner-logo {
+  height: 150px;
+  object-fit: contain;
+}
+
+.partner-name {
+  text-align: center;
+  margin: 8px 0;
+}
